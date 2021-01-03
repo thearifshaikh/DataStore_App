@@ -1,0 +1,11 @@
+
+A---{
+    "fruit": "Apple",
+    "size": "Large",
+    "color": "Red"
+}
+B---{
+    "fruit": "Banana",
+    "size": "Large",
+    "color": "Yellow"
+}
